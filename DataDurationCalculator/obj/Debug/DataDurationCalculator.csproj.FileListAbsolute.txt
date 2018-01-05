@@ -1,1 +1,6 @@
 C:\Users\itegrootenhuis\Documents\Grand Circus\DataDurationCalculator\DataDurationCalculator\bin\Debug\DataDurationCalculator.exe.config
+C:\Users\itegrootenhuis\Documents\Grand Circus\DataDurationCalculator\DataDurationCalculator\bin\Debug\DataDurationCalculator.exe
+C:\Users\itegrootenhuis\Documents\Grand Circus\DataDurationCalculator\DataDurationCalculator\bin\Debug\DataDurationCalculator.pdb
+C:\Users\itegrootenhuis\Documents\Grand Circus\DataDurationCalculator\DataDurationCalculator\obj\Debug\DataDurationCalculator.csprojResolveAssemblyReference.cache
+C:\Users\itegrootenhuis\Documents\Grand Circus\DataDurationCalculator\DataDurationCalculator\obj\Debug\DataDurationCalculator.exe
+C:\Users\itegrootenhuis\Documents\Grand Circus\DataDurationCalculator\DataDurationCalculator\obj\Debug\DataDurationCalculator.pdb
