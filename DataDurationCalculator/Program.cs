@@ -18,9 +18,7 @@ namespace DataDurationCalculator
 
 		private static void QuitConsoleApp()
 		{
-			Console.WriteLine();
-			Console.WriteLine();
-			Console.WriteLine("Press R to repeat or any other key to exit the app.");
+			Console.WriteLine("\n\nPress R to repeat or any other key to exit the app.");
 			ConsoleKeyInfo quitKey = Console.ReadKey();
 
 			if (quitKey.Key.ToString().ToLower() == "r")
